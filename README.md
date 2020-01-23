@@ -15,9 +15,17 @@ Omnistack 10 - DevRadar
 ## Ferramentas
 Foram utilizadas a stack Javascript para o desenvolvimento do projeto:
 
-- ⚛️ **React Js** — Biblioteca JavaScript para construção do frontend da aplicação web;
-- ⚛️ **React Native** — Biblioteca que provê uma maneira eficiente de criar aplicações nativas para Android e iOS;
-- 💹 **Node Js** — Plataforma que permite utilizar javascript para criar aplicações do lado do servidor(backend).
+- ⚛️ **React Js** — Biblioteca JavaScript para construção do frontend da aplicação web:
+  - Uso do react hooks;
+  - Requisições com o axios.
+- ⚛️ **React Native** — Biblioteca que provê uma maneira eficiente de criar aplicações nativas para Android e iOS:
+  - Uso do expo;
+  - Comunicação em tempo real com websockets(socket-io).
+- 💹 **Node Js** — Plataforma que permite utilizar javascript para criar aplicações do lado do servidor(backend):
+  - Axios;
+  - Framework express;
+  - Banco de dados mongodb;
+  - Comunicação via socket-io.
 
 ## Getting started
 
